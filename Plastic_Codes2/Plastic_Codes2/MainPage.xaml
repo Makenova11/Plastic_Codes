@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Plastic_Codes2.MainPage">
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image1" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image2" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image3" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image4" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image5" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image6" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image7" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image8" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage>
+        <ContentPage.Content>
+            <ScrollView>
+                <Image x:Name="image9" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+
+</CarouselPage>
